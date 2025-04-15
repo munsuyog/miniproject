@@ -21,8 +21,3 @@ The Black-Scholes model is a mathematical model used to calculate the theoretica
 ### SIP Calculator
 
 SIP (Systematic Investment Plan) calculator is a tool used to calculate the potential returns on investments made through regular contributions. In the TradeHarbour project, the SIP calculator is utilized for [specific purpose or task].
-
-## About the Authors
-- Aryan: [contact information]
-- Madhav: [contact information]
-- Aditya: [contact information]

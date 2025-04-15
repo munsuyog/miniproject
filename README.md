@@ -1,6 +1,3 @@
-# TradeHarbour
-
-This repository is created by Aryan, Madhav, and Aditya.
 
 ## Project Overview
 
